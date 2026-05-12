@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Raw Data Files - For Project
+data/raw/*.csv
+data/raw/*.json
+outputs/
